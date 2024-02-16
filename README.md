@@ -1,13 +1,10 @@
-# FINCHECK - Controle suas finanças
+# FINCHECK - Control your finances
 
+> FINCHECK is an application for managing personal finances. Monitor your expenses in a simple way, being able to filter by account, category and date.
 
-<img src="./assets/preview.png" alt="preview">
+ => The Project is under development
 
-> O FINCHECK é uma aplicação para gerenciamento de Finanças pessoais. Monitore seus gastos de forma simples, podendo filtrar por conta, categoria e data.
-
- => O Projeto está em desenvolvimento
-
-## 👩‍💻 Tecnologias usadas
+## 👩‍💻 Technologies used
   
   ### Back-end
     * NestJS
@@ -27,18 +24,14 @@
     
 ## Preview
 
-### Página de Login
+### Login Page
 
 <img src="./assets/Login.jpg" alt="preview" width="400px">
 
-### Página Home
+### Home Page
 
 <img src="./assets/Home1.jpg" alt="preview" width="400px">
 
-## Página Home Filtro
+## Home Filter page
 
 <img src="./assets/Home2.png" alt="preview" width="400px">
-
-## 📝 Licença
-
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
